@@ -1,5 +1,5 @@
 # codtech-it-solutions-3
-# NLP Chatbot with Semantic Understanding
+# AI CHATBOT WITH NLP
 
 ## Developer Information
 **Name**: Sanjana Bimireddy  
